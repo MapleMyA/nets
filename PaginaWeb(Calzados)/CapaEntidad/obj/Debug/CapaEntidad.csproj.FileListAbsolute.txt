@@ -1,0 +1,30 @@
+C:\Users\gusta\source\repos\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\gusta\source\repos\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\CursoMVC\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\gusta\source\repos\CursoMVC\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\gusta\source\repos\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\gusta\source\repos\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.pdb

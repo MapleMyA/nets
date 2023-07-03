@@ -1,0 +1,776 @@
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\CapaPresentacionAdmin.dll.config
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\CapaPresentacionAdmin.dll
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\CapaPresentacionAdmin.pdb
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\roslyn\csc.exe
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\roslyn\csc.exe.config
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\roslyn\csc.rsp
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\roslyn\csi.exe
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\roslyn\csi.exe.config
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\roslyn\csi.rsp
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.AppContext.dll
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Console.dll
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.IO.Compression.dll
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Net.Http.dll
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Net.Sockets.dll
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.ValueTuple.dll
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\roslyn\vbc.exe
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\roslyn\vbc.exe.config
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\roslyn\vbc.rsp
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\roslyn\VBCSCompiler.exe
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\Antlr3.Runtime.dll
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\Newtonsoft.Json.dll
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\System.Web.Helpers.dll
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\System.Web.Mvc.dll
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\System.Web.Optimization.dll
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\System.Web.Razor.dll
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\System.Web.WebPages.dll
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\System.Web.WebPages.Razor.dll
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\WebGrease.dll
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\System.Web.Helpers.xml
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\System.Web.Mvc.xml
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\System.Web.Optimization.xml
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\System.Web.Razor.xml
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\System.Web.WebPages.xml
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\System.Web.WebPages.Razor.xml
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\Newtonsoft.Json.xml
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\Antlr3.Runtime.pdb
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\es\System.Web.Helpers.resources.dll
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\es\System.Web.Mvc.resources.dll
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\es\System.Web.Optimization.resources.dll
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\es\System.Web.Razor.resources.dll
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\es\System.Web.WebPages.resources.dll
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.csproj.AssemblyReference.cache
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.csproj.CopyComplete
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.dll
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.pdb
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\CapaEntidad.dll
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\CapaNegocio.dll
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\CapaDatos.dll
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\CapaEntidad.pdb
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\CapaNegocio.pdb
+C:\Users\gusta\source\repos\CursoMVC\CapaPresentacionAdmin\bin\CapaDatos.pdb
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\CapaPresentacionAdmin.dll.config
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\CapaPresentacionAdmin.dll
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\CapaPresentacionAdmin.pdb
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\csc.exe
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\csc.exe.config
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\csc.rsp
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\csi.exe
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\csi.exe.config
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\csi.rsp
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.Managed.Core.targets
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.AppContext.dll
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Collections.Immutable.dll
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Console.dll
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Globalization.Calendars.dll
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.IO.Compression.dll
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.IO.FileSystem.dll
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Net.Http.dll
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Net.Sockets.dll
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Reflection.Metadata.dll
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.ValueTuple.dll
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Xml.XmlDocument.dll
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Xml.XPath.dll
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\vbc.exe
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\vbc.exe.config
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\vbc.rsp
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\VBCSCompiler.exe
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\VBCSCompiler.exe.config
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\Antlr3.Runtime.dll
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\CapaEntidad.dll
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\CapaNegocio.dll
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\Microsoft.Web.Infrastructure.dll
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\Newtonsoft.Json.dll
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.Helpers.dll
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.Mvc.dll
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.Optimization.dll
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.Razor.dll
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.WebPages.Deployment.dll
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.WebPages.dll
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.WebPages.Razor.dll
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\WebGrease.dll
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\CapaDatos.dll
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\CapaEntidad.pdb
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\CapaNegocio.pdb
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.Helpers.xml
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.Mvc.xml
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.Optimization.xml
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.Razor.xml
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.WebPages.xml
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.WebPages.Deployment.xml
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.WebPages.Razor.xml
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\Newtonsoft.Json.xml
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\Antlr3.Runtime.pdb
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\CapaDatos.pdb
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\es\System.Web.Helpers.resources.dll
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\es\System.Web.Mvc.resources.dll
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\es\System.Web.Optimization.resources.dll
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\es\System.Web.Razor.resources.dll
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\es\System.Web.WebPages.resources.dll
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.csproj.AssemblyReference.cache
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.csproj.CoreCompileInputs.cache
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.csproj.CopyComplete
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.dll
+D:\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.pdb
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\CapaPresentacionAdmin.dll.config
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\CapaPresentacionAdmin.dll
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\CapaPresentacionAdmin.pdb
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\csc.exe
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\csc.exe.config
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\csc.rsp
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\csi.exe
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\csi.exe.config
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\csi.rsp
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.AppContext.dll
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Console.dll
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.IO.Compression.dll
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Net.Http.dll
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Net.Sockets.dll
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.ValueTuple.dll
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\vbc.exe
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\vbc.exe.config
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\vbc.rsp
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\VBCSCompiler.exe
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\Antlr3.Runtime.dll
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\CapaEntidad.dll
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\CapaNegocio.dll
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\Newtonsoft.Json.dll
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.Helpers.dll
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.Mvc.dll
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.Optimization.dll
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.Razor.dll
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.WebPages.dll
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.WebPages.Razor.dll
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\WebGrease.dll
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\CapaDatos.dll
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\CapaEntidad.pdb
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\CapaNegocio.pdb
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.Helpers.xml
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.Mvc.xml
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.Optimization.xml
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.Razor.xml
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.WebPages.xml
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.WebPages.Razor.xml
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\Newtonsoft.Json.xml
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\Antlr3.Runtime.pdb
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\CapaDatos.pdb
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\es\System.Web.Helpers.resources.dll
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\es\System.Web.Mvc.resources.dll
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\es\System.Web.Optimization.resources.dll
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\es\System.Web.Razor.resources.dll
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\es\System.Web.WebPages.resources.dll
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.csproj.AssemblyReference.cache
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.csproj.CoreCompileInputs.cache
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.csproj.CopyComplete
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.dll
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.pdb
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\CapaPresentacionAdmin.dll.config
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\CapaPresentacionAdmin.dll
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\CapaPresentacionAdmin.pdb
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\csc.exe
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\csc.exe.config
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\csc.rsp
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\csi.exe
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\csi.exe.config
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\csi.rsp
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.AppContext.dll
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Console.dll
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.IO.Compression.dll
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Net.Http.dll
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Net.Sockets.dll
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.ValueTuple.dll
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\vbc.exe
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\vbc.exe.config
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\vbc.rsp
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\VBCSCompiler.exe
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\Antlr3.Runtime.dll
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\CapaEntidad.dll
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\CapaNegocio.dll
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\Newtonsoft.Json.dll
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.Helpers.dll
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.Mvc.dll
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.Optimization.dll
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.Razor.dll
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.WebPages.dll
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.WebPages.Razor.dll
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\WebGrease.dll
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\CapaDatos.dll
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\CapaEntidad.pdb
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\CapaNegocio.pdb
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.Helpers.xml
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.Mvc.xml
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.Optimization.xml
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.Razor.xml
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.WebPages.xml
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.WebPages.Razor.xml
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\Newtonsoft.Json.xml
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\Antlr3.Runtime.pdb
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\CapaDatos.pdb
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\es\System.Web.Helpers.resources.dll
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\es\System.Web.Mvc.resources.dll
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\es\System.Web.Optimization.resources.dll
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\es\System.Web.Razor.resources.dll
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\es\System.Web.WebPages.resources.dll
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.csproj.CopyComplete
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.dll
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.pdb
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\CapaPresentacionAdmin.dll.config
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\CapaPresentacionAdmin.dll
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\CapaPresentacionAdmin.pdb
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\csc.exe
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\csc.exe.config
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\csc.rsp
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\csi.exe
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\csi.exe.config
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\csi.rsp
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.AppContext.dll
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Console.dll
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.IO.Compression.dll
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Net.Http.dll
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Net.Sockets.dll
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.ValueTuple.dll
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\vbc.exe
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\vbc.exe.config
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\vbc.rsp
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\VBCSCompiler.exe
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\Antlr3.Runtime.dll
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\CapaEntidad.dll
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\CapaNegocio.dll
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\Newtonsoft.Json.dll
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.Helpers.dll
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.Mvc.dll
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.Optimization.dll
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.Razor.dll
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.WebPages.dll
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.WebPages.Razor.dll
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\WebGrease.dll
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\CapaDatos.dll
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\CapaEntidad.pdb
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\CapaNegocio.pdb
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.Helpers.xml
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.Mvc.xml
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.Optimization.xml
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.Razor.xml
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.WebPages.xml
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.WebPages.Razor.xml
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\Newtonsoft.Json.xml
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\Antlr3.Runtime.pdb
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\CapaDatos.pdb
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\es\System.Web.Helpers.resources.dll
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\es\System.Web.Mvc.resources.dll
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\es\System.Web.Optimization.resources.dll
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\es\System.Web.Razor.resources.dll
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\es\System.Web.WebPages.resources.dll
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.csproj.AssemblyReference.cache
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.csproj.CoreCompileInputs.cache
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.csproj.CopyComplete
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.dll
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.pdb
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\ClosedXML.dll
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\DocumentFormat.OpenXml.dll
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\ExcelNumberFormat.dll
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.IO.Packaging.dll
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\ClosedXML.pdb
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\ClosedXML.xml
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\DocumentFormat.OpenXml.xml
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\ExcelNumberFormat.xml
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\CapaPresentacionAdmin.dll.config
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\CapaPresentacionAdmin.dll
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\CapaPresentacionAdmin.pdb
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\csc.exe
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\csc.exe.config
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\csc.rsp
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\csi.exe
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\csi.exe.config
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\csi.rsp
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.AppContext.dll
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Console.dll
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Net.Http.dll
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\vbc.exe
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\vbc.exe.config
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\vbc.rsp
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\Antlr3.Runtime.dll
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\CapaEntidad.dll
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\CapaNegocio.dll
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\ClosedXML.dll
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\DocumentFormat.OpenXml.dll
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\ExcelNumberFormat.dll
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\Newtonsoft.Json.dll
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.IO.Packaging.dll
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.Helpers.dll
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.Mvc.dll
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.Optimization.dll
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.Razor.dll
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.WebPages.dll
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\WebGrease.dll
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\CapaDatos.dll
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\CapaEntidad.pdb
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\CapaNegocio.pdb
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\ClosedXML.pdb
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\ClosedXML.xml
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\DocumentFormat.OpenXml.xml
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\ExcelNumberFormat.xml
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.Helpers.xml
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.Mvc.xml
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.Optimization.xml
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.Razor.xml
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.WebPages.xml
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\Newtonsoft.Json.xml
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\Antlr3.Runtime.pdb
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\CapaDatos.pdb
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\es\System.Web.Razor.resources.dll
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.csproj.AssemblyReference.cache
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.csproj.CoreCompileInputs.cache
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.csproj.CopyComplete
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.dll
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.pdb
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\ClosedXML.dll
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\DocumentFormat.OpenXml.dll
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\ExcelNumberFormat.dll
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.IO.Packaging.dll
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\ClosedXML.pdb
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\ClosedXML.xml
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\DocumentFormat.OpenXml.xml
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\ExcelNumberFormat.xml
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\CapaPresentacionAdmin.dll.config
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\CapaPresentacionAdmin.dll
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\CapaPresentacionAdmin.pdb
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\csc.exe
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\csc.exe.config
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\csc.rsp
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\csi.exe
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\csi.exe.config
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\csi.rsp
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.AppContext.dll
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Console.dll
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.IO.Compression.dll
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Net.Http.dll
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Net.Sockets.dll
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.ValueTuple.dll
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\vbc.exe
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\vbc.exe.config
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\vbc.rsp
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\VBCSCompiler.exe
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\Antlr3.Runtime.dll
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\CapaEntidad.dll
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\CapaNegocio.dll
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\ClosedXML.dll
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\DocumentFormat.OpenXml.dll
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\ExcelNumberFormat.dll
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\Newtonsoft.Json.dll
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.IO.Packaging.dll
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.Helpers.dll
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.Mvc.dll
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.Optimization.dll
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.Razor.dll
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.WebPages.dll
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.WebPages.Razor.dll
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\WebGrease.dll
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\CapaDatos.dll
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\CapaEntidad.pdb
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\CapaNegocio.pdb
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\ClosedXML.pdb
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\ClosedXML.xml
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\DocumentFormat.OpenXml.xml
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\ExcelNumberFormat.xml
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.Helpers.xml
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.Mvc.xml
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.Optimization.xml
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.Razor.xml
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.WebPages.xml
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\System.Web.WebPages.Razor.xml
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\Newtonsoft.Json.xml
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\Antlr3.Runtime.pdb
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\CapaDatos.pdb
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\es\System.Web.Helpers.resources.dll
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\es\System.Web.Mvc.resources.dll
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\es\System.Web.Optimization.resources.dll
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\es\System.Web.Razor.resources.dll
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\es\System.Web.WebPages.resources.dll
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.csproj.AssemblyReference.cache
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.csproj.CoreCompileInputs.cache
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.csproj.CopyComplete
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.dll
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.pdb
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\CapaPresentacionAdmin.dll.config
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\CapaPresentacionAdmin.dll
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\CapaPresentacionAdmin.pdb
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\roslyn\csc.exe
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\roslyn\csc.exe.config
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\roslyn\csc.rsp
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\roslyn\csi.exe
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\roslyn\csi.exe.config
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\roslyn\csi.rsp
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\roslyn\System.AppContext.dll
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\roslyn\System.Console.dll
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\roslyn\System.IO.Compression.dll
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\roslyn\System.Net.Http.dll
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\roslyn\System.Net.Sockets.dll
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\roslyn\System.ValueTuple.dll
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\roslyn\vbc.exe
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\roslyn\vbc.exe.config
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\roslyn\vbc.rsp
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\roslyn\VBCSCompiler.exe
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\Antlr3.Runtime.dll
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\CapaEntidad.dll
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\CapaNegocio.dll
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\ClosedXML.dll
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\DocumentFormat.OpenXml.dll
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\ExcelNumberFormat.dll
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\Newtonsoft.Json.dll
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\System.IO.Packaging.dll
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\System.Web.Helpers.dll
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\System.Web.Mvc.dll
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\System.Web.Optimization.dll
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\System.Web.Razor.dll
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\System.Web.WebPages.dll
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\System.Web.WebPages.Razor.dll
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\WebGrease.dll
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\CapaDatos.dll
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\CapaEntidad.pdb
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\CapaNegocio.pdb
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\ClosedXML.pdb
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\ClosedXML.xml
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\DocumentFormat.OpenXml.xml
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\ExcelNumberFormat.xml
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\System.Web.Helpers.xml
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\System.Web.Mvc.xml
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\System.Web.Optimization.xml
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\System.Web.Razor.xml
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\System.Web.WebPages.xml
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\System.Web.WebPages.Razor.xml
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\Newtonsoft.Json.xml
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\Antlr3.Runtime.pdb
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\CapaDatos.pdb
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\es\System.Web.Helpers.resources.dll
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\es\System.Web.Mvc.resources.dll
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\es\System.Web.Optimization.resources.dll
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\es\System.Web.Razor.resources.dll
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\es\System.Web.WebPages.resources.dll
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.csproj.AssemblyReference.cache
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.csproj.CoreCompileInputs.cache
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.csproj.CopyComplete
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.dll
+C:\Users\DIEGO\Desktop\CursoMVCza\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.pdb

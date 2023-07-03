@@ -1,0 +1,66 @@
+C:\Users\gusta\source\repos\CursoMVC\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\gusta\source\repos\CursoMVC\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\gusta\source\repos\CursoMVC\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\gusta\source\repos\CursoMVC\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\gusta\source\repos\CursoMVC\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\gusta\source\repos\CursoMVC\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\gusta\source\repos\CursoMVC\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\gusta\source\repos\CursoMVC\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\CursoMVC\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\gusta\source\repos\CursoMVC\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\gusta\source\repos\CursoMVC\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\DIEGO\Desktop\abreme aqui\PRYCT PAGINA WEB\CursoMVC\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\gusta\OneDrive\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\DIEGO\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Lab\Desktop\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\DIEGO\Desktop\Gordoooo\Proyecto Gordo\PRYCT PAGINA WEB\CursoMVC\CapaNegocio\obj\Debug\CapaNegocio.pdb
